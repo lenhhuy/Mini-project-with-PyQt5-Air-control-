@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>arrow.png</file>
+    <file>list.png</file>
+    <file>logo hcmute cơ bản.png</file>
+  </qresource>
+  <qresource prefix="phimtat">
+    <file>artifical-intelligence.png</file>
+    <file>music.png</file>
+    <file>minus-button.png</file>
+    <file>close.png</file>
+    <file>expand.png</file>
+  </qresource>
+</RCC>

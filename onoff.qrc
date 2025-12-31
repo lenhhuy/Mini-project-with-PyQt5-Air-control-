@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="onoff">
+    <file>power-on.png</file>
+  </qresource>
+</RCC>

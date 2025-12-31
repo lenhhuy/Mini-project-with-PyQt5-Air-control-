@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="air">
+    <file>power-on.png</file>
+    <file>airconditionercool.png</file>
+    <file>mode3.png</file>
+    <file>mode2.png</file>
+    <file>wind.png</file>
+  </qresource>
+</RCC>

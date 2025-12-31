@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="humid">
+    <file>doamon.png</file>
+    <file>doamoff.png</file>
+  </qresource>
+</RCC>

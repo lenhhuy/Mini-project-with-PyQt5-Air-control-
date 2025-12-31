@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logosp">
+    <file>artifical-intelligence.png</file>
+    <file>logoairdevice.png</file>
+  </qresource>
+</RCC>

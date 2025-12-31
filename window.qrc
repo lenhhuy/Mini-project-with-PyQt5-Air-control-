@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="window">
+    <file>window.png</file>
+    <file>windows.png</file>
+  </qresource>
+</RCC>
